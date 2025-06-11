@@ -1,2 +1,0 @@
-# lifes
-lifes blog
